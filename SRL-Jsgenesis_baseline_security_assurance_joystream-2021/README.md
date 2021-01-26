@@ -8,7 +8,7 @@ This repository contains all deliverables created in the course of the project a
 
 | Folder        | Description           |
 | ------------- | --------------------- |
-| 0-deliverbales| Project deliverables  |
+| 0-deliverables| Project deliverables  |
 
 ## Issue overview
 
