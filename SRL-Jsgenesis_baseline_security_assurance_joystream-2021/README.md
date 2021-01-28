@@ -9,6 +9,7 @@ This repository contains all deliverables created in the course of the project a
 | Folder        | Description           |
 | ------------- | --------------------- |
 | 0-deliverables| Project deliverables  |
+| 1-status      | Jour fixe slides      |
 
 ## Issue overview
 
