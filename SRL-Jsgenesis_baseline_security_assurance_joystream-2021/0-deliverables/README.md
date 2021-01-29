@@ -2,9 +2,9 @@
 
 ## Overview
 
-| Document        | Description   |
-| --------------- | ------------- |
-| TBD             | TBD           |
+| Document          | Description   | Accessible at |
+| ---------------   | ------------- | ------------- |
+| Threat model draft| Work in progress document for threat model | [SRLabs Sharepoint](https://securityresearchlabs.sharepoint.com/:x:/s/Joystream/Ed53-ZkfyF5PrS1PHi9JhmAB3jbk4373Mk-0au0GPmdrkQ?e=80lCdG) |
 
 ## Threat Model
 
