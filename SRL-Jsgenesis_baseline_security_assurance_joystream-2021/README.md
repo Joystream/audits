@@ -16,7 +16,7 @@ This repository contains all deliverables created in the course of the project a
 
 | Issue description | Severity | Reference |
 | ------------- | ------------ | --------- |
-| TBD           | TBD          | TBD       |
+| Exponential complexity of weight calculation functions in multiple imported Substrate 2.0.0 pallets allows for Denial of Service attack, potentially stalling the blockchain           | Critical          | #1       |
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
 
