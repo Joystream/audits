@@ -17,3 +17,15 @@ This repository contains all deliverables created in the course of the project a
 | Issue description | Severity | Reference |
 | ------------- | ------------ | --------- |
 | TBD           | TBD          | TBD       |
+
+For each of the reported issues, we assign a severity based on its estimated impact when exploited:
+
+| Severity	|Description        |
+| ------------- | ----------------- |
+|Critical	|Immediately exploitable under real-world conditions. Very high impact if exploited.|
+|High		|Under real-world conditions, exploit requires greater attack effort to cause high or very high impact.|
+|Moderate	|Minor exploit, exploit fragment, information leak, or best practice deviation. Real-world exploit, if possible, causes only low to moderate impact.|
+|Low		|Not directly tied to a potential exploit. Low impact. Minor bug, information leak, or best practice deviation.|
+|Info-level	|No direct security impact. Minor bug or best practice deviation.|
+
+Critical and high severity issues need to be addressed right away. Moderate, low and info-level issues should be addressed in the next maintenance cycle.
