@@ -7,7 +7,7 @@ This repository contains all deliverables created in the course of the project a
 ## Structure
 
 | Folder        | Description           |
-| ------------- | --------------------- |
+| :------------ | :-------------------- |
 | 0-deliverables| Project deliverables  |
 | 1-status      | Jour fixe slides      |
 | x-resources   | Embeddable resources      |
@@ -15,8 +15,10 @@ This repository contains all deliverables created in the course of the project a
 ## Issue overview
 
 | Issue description | Severity | Reference |
-| ------------- | ------------ | --------- |
-| Exponential complexity of weight calculation functions in multiple imported Substrate 2.0.0 pallets allows for Denial of Service attack, potentially stalling the blockchain           | Critical          | #1       |
+| :------------ | :----------- | :-------- |
+| Exponential complexity of weight calculation functions in multiple imported Substrate 2.0.0 pallets allows for Denial of Service attack, potentially stalling the blockchain           | Critical          | [#1](https://github.com/Joystream/audits/issues/1)       |
+| Missing checks on the `referral_cut` value could enable creating unlimited membership accounts for free | Info | [#2](https://github.com/Joystream/audits/issues/2)|
+
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
 
