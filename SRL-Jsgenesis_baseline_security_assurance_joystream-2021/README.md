@@ -19,6 +19,7 @@ This repository contains all deliverables created in the course of the project a
 | Exponential complexity of weight calculation functions in multiple imported Substrate 2.0.0 pallets allows for Denial of Service attack, potentially stalling the blockchain           | Critical          | [#1](https://github.com/Joystream/audits/issues/1)       |
 | Missing checks on the `referral_cut` value could enable creating unlimited membership accounts for free | Info | [#2](https://github.com/Joystream/audits/issues/2)|
 | Members can undermine the intent of the `invite_member` extrinsic by inviting themselves to get free tokens | Low | [#3](https://github.com/Joystream/audits/issues/3) |
+|In the commit-reveal voting scheme for referendums, UUID 4 is used for random salt generation instead of a cryptographic random generator | Info | [#4](https://github.com/Joystream/audits/issues/4) |
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
