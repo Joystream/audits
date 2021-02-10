@@ -20,6 +20,8 @@ This repository contains all deliverables created in the course of the project a
 | Missing checks on the `referral_cut` value could enable creating unlimited membership accounts for free | Info | [#2](https://github.com/Joystream/audits/issues/2)|
 | Members can undermine the intent of the `invite_member` extrinsic by inviting themselves to get free tokens | Low | [#3](https://github.com/Joystream/audits/issues/3) |
 |In the commit-reveal voting scheme for referendums, UUID 4 is used for random salt generation instead of a cryptographic random generator | Info | [#4](https://github.com/Joystream/audits/issues/4) |
+|No deposit is charged for creating forum posts and threads|Moderate|[#5](https://github.com/Joystream/audits/issues/5)|
+|The `set_stickied_threads` extrinsic can be used to cheaply fill up the blockchain storage|Moderate|[#6](https://github.com/Joystream/audits/issues/6)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
