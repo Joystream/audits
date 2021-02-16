@@ -23,6 +23,7 @@ This repository contains all deliverables created in the course of the project a
 |No deposit is charged for creating forum posts and threads|Moderate|[#5](https://github.com/Joystream/audits/issues/5)|
 |The `set_stickied_threads` extrinsic can be used to cheaply fill up the blockchain storage|Moderate|[#6](https://github.com/Joystream/audits/issues/6)|
 |Account takeover via malicious membership invitation| Moderate | [#7](https://github.com/Joystream/audits/issues/7) |
+|In referendums, the voting stake is only locked for balances transfer| Low | [#8](https://github.com/Joystream/audits/issues/8)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
