@@ -24,6 +24,7 @@ This repository contains all deliverables created in the course of the project a
 |The `set_stickied_threads` extrinsic can be used to cheaply fill up the blockchain storage|Moderate|[#6](https://github.com/Joystream/audits/issues/6)|
 |Account takeover via malicious membership invitation| Moderate | [#7](https://github.com/Joystream/audits/issues/7) |
 |In referendums, the voting stake is only locked for balances transfer| Low | [#8](https://github.com/Joystream/audits/issues/8)|
+|The existential deposit is configured to be 0|High|[#9](https://github.com/Joystream/audits/issues/9)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
