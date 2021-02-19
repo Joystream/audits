@@ -25,6 +25,7 @@ This repository contains all deliverables created in the course of the project a
 |Account takeover via malicious membership invitation| Moderate | [#7](https://github.com/Joystream/audits/issues/7) |
 |In referendums, the voting stake is only locked for balances transfer| Low | [#8](https://github.com/Joystream/audits/issues/8)|
 |The existential deposit is configured to be 0|High|[#9](https://github.com/Joystream/audits/issues/9)|
+|Multiple votes per user possible in the forum pallet via `vote_on_poll`|Low|[#10](https://github.com/Joystream/audits/issues/10)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
