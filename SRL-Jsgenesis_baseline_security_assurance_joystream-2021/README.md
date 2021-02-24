@@ -26,6 +26,8 @@ This repository contains all deliverables created in the course of the project a
 |In referendums, the voting stake is only locked for balances transfer| Low | [#8](https://github.com/Joystream/audits/issues/8)|
 |The existential deposit is configured to be 0|High|[#9](https://github.com/Joystream/audits/issues/9)|
 |Multiple votes per user possible in the forum pallet via `vote_on_poll`|Low|[#10](https://github.com/Joystream/audits/issues/10)|
+|No deposit is charged for adding staking account candidates to a membership|High|[#11](https://github.com/Joystream/audits/issues/11)|
+|No deposit is charged for adding position openings for working groups|Low|[#12](https://github.com/Joystream/audits/issues/12)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
