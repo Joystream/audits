@@ -28,6 +28,8 @@ This repository contains all deliverables created in the course of the project a
 |Multiple votes per user possible in the forum pallet via `vote_on_poll`|Low|[#10](https://github.com/Joystream/audits/issues/10)|
 |No deposit is charged for adding staking account candidates to a membership|High|[#11](https://github.com/Joystream/audits/issues/11)|
 |No deposit is charged for adding position openings for working groups|Low|[#12](https://github.com/Joystream/audits/issues/12)|
+|No deposit is charged for adding posts on proposal threads|Low|[#13](https://github.com/Joystream/audits/issues/13)|
+|No deposit is charged for applying on working group role openings|Moderate|[#14](https://github.com/Joystream/audits/issues/14)|
 
 
 For each of the reported issues, we assign a severity based on its estimated impact when exploited:
